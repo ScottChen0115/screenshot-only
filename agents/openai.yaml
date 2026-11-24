@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screenshot Only"
+  short_description: "Complete a task from the visible page or file"
+  default_prompt: "Use $screenshot-only to capture this source and finish my task using only what is visible in the screenshots."
